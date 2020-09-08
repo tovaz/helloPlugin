@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-helloworld",
+  "name": "cordova-plugin-hello",
   "version": "0.1.0",
   "description": "A sample for a new cordova plugin",
   "cordova": {
@@ -12,21 +12,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/don/cordova-plugin-hello.git"
+    "url": "git+https://github.com/tovaz/helloPlugin.git"
   },
   "keywords": [
     "cordova",
     "plugin",
-    "hello", "helloworld", "helloWorld",
+    "hello",
     "ecosystem:cordova",
     "cordova-android"
   ],
   "author": "William Valdez",
   "license": "Apache-2",
   "bugs": {
-    "url": "https://github.com/don/cordova-plugin-hello/issues"
+    "url": "https://github.com/tovaz/helloPlugin/issues"
   },
-  "homepage": "https://github.com/don/cordova-plugin-hello#readme",
+  "homepage": "https://github.com/tovaz/cordova-plugin-hello#readme",
   "engines": {
     "cordova": ">=6.0.0"
   }
