@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
-        id="cordova-plugin-hello"
-        version="0.7.0">
+        id="com.example.hello"
+        version="0.8.0">
 
   <name>Hello</name>
 
@@ -18,7 +18,7 @@
   <platform name="android">
 
     <config-file target="res/xml/config.xml" parent="/*">
-      <feature name="hello">
+      <feature name="Hello">
         <param name="android-package" value="com.example.plugin.Hello"/>
       </feature>
     </config-file>
