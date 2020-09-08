@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "A sample for a new cordova plugin",
   "cordova": {
-    "id": "cordova-plugin-helloworld",
+    "id": "cordova-plugin-hello",
     "platforms": [
       "android",
       "ios",
@@ -17,7 +17,7 @@
   "keywords": [
     "cordova",
     "plugin",
-    "helloworld",
+    "hello", "helloworld", "helloWorld",
     "ecosystem:cordova",
     "cordova-android"
   ],
