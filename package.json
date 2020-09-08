@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-hello",
+  "name": "cordova-plugin-helloworld",
   "version": "0.1.0",
   "description": "A sample for a new cordova plugin",
   "cordova": {
-    "id": "cordova-plugin-hello",
+    "id": "cordova-plugin-helloworld",
     "platforms": [
       "android",
       "ios",
@@ -17,11 +17,11 @@
   "keywords": [
     "cordova",
     "plugin",
-    "hello",
+    "helloworld",
     "ecosystem:cordova",
     "cordova-android"
   ],
-  "author": "testPush",
+  "author": "William Valdez",
   "license": "Apache-2",
   "bugs": {
     "url": "https://github.com/don/cordova-plugin-hello/issues"
